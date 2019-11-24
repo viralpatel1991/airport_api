@@ -7,7 +7,7 @@ Aiport app shows a list of a all city airport and their detail
 Please run below command to install the dependencies, devDependencies and start the client on the local system.
 
 ```sh
-$ cd client
+$ cd airport_api
 $ npm install
 $ npm start or yarn start
 ```
